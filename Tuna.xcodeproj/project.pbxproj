@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7D07712123C0864E005DF015 /* gnomeSound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D07712023C0864E005DF015 /* gnomeSound.wav */; };
+		7D7CA89D246F7074000F1DEF /* Weights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D7CA89C246F7074000F1DEF /* Weights.swift */; };
 		7DD4A15223BD9203000CCF7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD4A15123BD9203000CCF7C /* AppDelegate.swift */; };
 		7DD4A15423BD9203000CCF7C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD4A15323BD9203000CCF7C /* SceneDelegate.swift */; };
 		7DD4A15623BD9203000CCF7C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DD4A15523BD9203000CCF7C /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		7D07712023C0864E005DF015 /* gnomeSound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = gnomeSound.wav; sourceTree = "<group>"; };
+		7D7CA89C246F7074000F1DEF /* Weights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weights.swift; sourceTree = "<group>"; };
 		7DD4A14E23BD9203000CCF7C /* Tuna.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tuna.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DD4A15123BD9203000CCF7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DD4A15323BD9203000CCF7C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				7DD4A15123BD9203000CCF7C /* AppDelegate.swift */,
 				7DD4A15323BD9203000CCF7C /* SceneDelegate.swift */,
 				7DD4A15523BD9203000CCF7C /* ContentView.swift */,
+				7D7CA89C246F7074000F1DEF /* Weights.swift */,
 				7DD4A15723BD9206000CCF7C /* Assets.xcassets */,
 				7DD4A15C23BD9206000CCF7C /* LaunchScreen.storyboard */,
 				7DD4A15F23BD9206000CCF7C /* Info.plist */,
@@ -153,6 +156,7 @@
 				7DD4A15223BD9203000CCF7C /* AppDelegate.swift in Sources */,
 				7DD4A15423BD9203000CCF7C /* SceneDelegate.swift in Sources */,
 				7DD4A15623BD9203000CCF7C /* ContentView.swift in Sources */,
+				7D7CA89D246F7074000F1DEF /* Weights.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
